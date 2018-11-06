@@ -1,4 +1,4 @@
-@font-face {
+c@font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
   src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
@@ -22,12 +22,12 @@ body {
       font-size: 16px; } }
 
 a {
-  color: #FFE6F2;
+  color: #F75940;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #FFE6F2;
+    color: #F75940;
     outline: none;
     text-decoration: none !important; }
 
@@ -57,15 +57,15 @@ figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #FFE6F2; }
+  background: #F75940; }
 
 ::-moz-selection {
   color: #fff;
-  background: #FFE6F2; }
+  background: #F75940; }
 
 ::selection {
   color: #fff;
-  background: #FFE6F2; }
+  background: #F75940; }
 
 #colorlib-page {
   width: 100%;
@@ -215,7 +215,7 @@ figure {
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
             outline: none;
-            color: #FFE6F2; }
+            color: #F75940; }
 
 #colorlib-main {
   width: 80%;
@@ -273,7 +273,7 @@ figure {
           #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
             cursor: pointer;
             background: transparent;
-            border: 2px solid #FFE6F2; }
+            border: 2px solid #F75940; }
     #colorlib-hero .flexslider .flex-direction-nav {
       display: none; }
     #colorlib-hero .flexslider .slider-text {
@@ -714,11 +714,11 @@ body.offcanvas {
         .colorlib-social li a {
           padding: 10px 8px; } }
       .colorlib-social li a:hover {
-        color: #FFE6F2; }
+        color: #F75940; }
       .colorlib-social li a:hover, .colorlib-social li a:active, .colorlib-social li a:focus {
         outline: none;
         text-decoration: none;
-        color: #FFE6F2; }
+        color: #F75940; }
 
 #map {
   width: 100%;
@@ -753,7 +753,7 @@ body.offcanvas {
     .colorlib-feature .colorlib-icon i {
       display: table-cell;
       vertical-align: middle;
-      color: #FFE6F2;
+      color: #F75940;
       font-size: 40px;
       height: 100px; }
       @media screen and (max-width: 1200px) {
@@ -775,7 +775,7 @@ body.offcanvas {
   .colorlib-feature.colorlib-feature-sm .colorlib-text {
     margin-top: 30px; }
   .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
-    color: #FFE6F2;
+    color: #F75940;
     font-size: 40px; }
     @media screen and (max-width: 1200px) {
       .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
@@ -816,19 +816,19 @@ body.offcanvas {
         -ms-border-radius: 2px;
         border-radius: 2px; }
       .pagination li a:hover, .pagination li a:focus {
-        background: #FFE6F2;
+        background: #F75940;
         color: #fff;
-        border: 1px solid #FFE6F2; }
+        border: 1px solid #F75940; }
       @media screen and (max-width: 768px) {
         .pagination li a {
           padding: 7px 15px; } }
     .pagination li.active a {
-      background: #FFE6F2;
-      border: 1px solid #FFE6F2 !important; }
+      background: #F75940;
+      border: 1px solid #F75940 !important; }
       .pagination li.active a:hover, .pagination li.active a:focus {
-        background: #FFE6F2;
+        background: #F75940;
         color: #fff;
-        border: 1px solid #FFE6F2 !important; }
+        border: 1px solid #F75940 !important; }
 
 .btn {
   margin-right: 4px;
@@ -858,18 +858,18 @@ body.offcanvas {
     outline: none !important; }
 
 .btn-primary {
-  background: #FFE6F2;
+  background: #F75940;
   color: #fff;
-  border: 2px solid #FFE6F2; }
+  border: 2px solid #F75940; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     background: #f86e58 !important;
     border-color: #f86e58 !important; }
   .btn-primary.btn-outline {
     background: transparent;
-    color: #FFE6F2;
-    border: 2px solid #FFE6F2; }
+    color: #F75940;
+    border: 2px solid #F75940; }
     .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-      background: #FFE6F2;
+      background: #F75940;
       color: #fff; }
 
 .btn-success {
@@ -962,7 +962,7 @@ body.offcanvas {
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
-    border-color: #FFE6F2; }
+    border-color: #F75940; }
 
 #message {
   height: 130px; }
